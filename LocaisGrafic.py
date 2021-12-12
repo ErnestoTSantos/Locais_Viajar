@@ -40,7 +40,7 @@ class apresentandoEstados:
                 break
             if evento == 'Start':
                 cidade = self.randomCity()
-                print(' ')
+                print()
                 print(cidade)
                 
 
